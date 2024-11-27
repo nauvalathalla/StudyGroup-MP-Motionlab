@@ -9,7 +9,6 @@ Jika login berhasil, aplikasi akan menampilkan pesan "Berhasil" dan membuka hala
 Jika gagal, aplikasi akan menampilkan pesan "Username atau Password tidak valid".
 Home Page:
 
-
 Setelah berhasil login, pengguna akan diarahkan ke halaman utama.
 Setelah itu terdapat tombol log out untuk kembali ke login page
 jika di-klik, maka akan kembali ke login page dan akan menapilkan pesan "Berhasil Keluar"
