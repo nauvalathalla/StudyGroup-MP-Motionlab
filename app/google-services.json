@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733383067182",
+    "project_id": "w1-android-motion",
+    "storage_bucket": "w1-android-motion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733383067182:android:a8bd2e4069d28126b481bf",
+        "android_client_info": {
+          "package_name": "com.android.w1_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn_MVdjiIaDoMQ2g3XcZVfPT9WKUwTMOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
