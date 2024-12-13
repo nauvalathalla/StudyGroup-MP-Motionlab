@@ -1,4 +1,4 @@
-# Penjelasan Mengenai Penggunaan LazyRow, NavigationBar, dan Font Family dalam Project Kotlin
+# Penjelasan Mengenai Penggunaan LazyRow, NavigationBar, dan Font Family.
 
 ## 1. **LazyRow**
 LazyRow adalah komponen yang sangat berguna dalam Jetpack Compose, yang memungkinkan kita untuk membuat daftar horizontal dengan cara yang efisien. Dengan menggunakan LazyRow, hanya item yang terlihat di layar yang akan dimuat, sehingga dapat menghemat memori dan meningkatkan performa aplikasi, terutama ketika jumlah item di dalamnya sangat banyak.
