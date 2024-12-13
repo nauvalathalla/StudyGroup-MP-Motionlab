@@ -15,25 +15,5 @@ LazyRow(
     }
 }
 
-## 2. **NavigationBar**
-NavigationBar memungkinkan kita untuk membuat bilah navigasi bawah (bottom navigation bar) dalam aplikasi mobile. Komponen ini membantu pengguna untuk berpindah antar halaman atau bagian di aplikasi dengan cepat.
 
-Scaffold(
-    bottomBar = {
-        BottomNavigation {
-            BottomNavigationItem(
-                icon = { Icon(Icons.Default.Home, contentDescription = null) },
-                selected = currentRoute == "home",
-                onClick = { navController.navigate("home") }
-            )
-            BottomNavigationItem(
-                icon = { Icon(Icons.Default.Favorite, contentDescription = null) },
-                selected = currentRoute == "favorites",
-                onClick = { navController.navigate("favorites") }
-            )
-        }
-    }
-) { innerPadding ->
-    // Content goes here
-}
 
